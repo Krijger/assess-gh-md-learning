@@ -13,3 +13,5 @@ Another paragraph. Lets go through the other header now: 3-6
 ##### header 5
 
 ###### header 6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
